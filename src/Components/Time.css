@@ -1,0 +1,14 @@
+button{
+  margin: 6px;
+  background-color: blue;
+  color: white;
+  width: 75px;
+  height: 30px;
+  border: none;
+  font-size: 23px;
+}
+.input_Second{
+  width: 100px;
+  height: 30px;
+  font-size: 30px;
+}
